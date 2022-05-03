@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ShoppingCart",
+    "\\ShoppingCart\\ShoppingCartSln\\ShoppingCartApp"
   ],
+  "SelectedNode": "\\ShoppingCart",
   "PreviewInSolutionExplorer": false
 }

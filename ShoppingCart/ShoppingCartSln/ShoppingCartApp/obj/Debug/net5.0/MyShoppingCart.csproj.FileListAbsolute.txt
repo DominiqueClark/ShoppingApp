@@ -17,3 +17,22 @@ C:\Users\Dominique Clark\Documents\Exercises\ShoppingCart\ShoppingCartSln\Shoppi
 C:\Users\Dominique Clark\Documents\Exercises\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.pdb
 C:\Users\Dominique Clark\Documents\Exercises\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.genruntimeconfig.cache
 C:\Users\Dominique Clark\Documents\Exercises\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\ref\MyShoppingCart.dll
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\MyShoppingCart.exe
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\MyShoppingCart.deps.json
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\MyShoppingCart.runtimeconfig.json
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\MyShoppingCart.runtimeconfig.dev.json
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\MyShoppingCart.dll
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\MyShoppingCart.pdb
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.csproj.AssemblyReference.cache
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.AssemblyInfoInputs.cache
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.AssemblyInfo.cs
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.csproj.CoreCompileInputs.cache
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.csproj.CopyComplete
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.dll
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\refint\MyShoppingCart.dll
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.pdb
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\MyShoppingCart.genruntimeconfig.cache
+C:\Exercises\ShoppingApp\Shoppincart\ShoppingApp\ShoppingCart\ShoppingCartSln\ShoppingCartApp\obj\Debug\net5.0\ref\MyShoppingCart.dll

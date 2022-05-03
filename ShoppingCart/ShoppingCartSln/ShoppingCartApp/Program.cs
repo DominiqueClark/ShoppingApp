@@ -23,7 +23,7 @@ namespace MyShoppingCart
 
             mycart.AddShoppingCartItems(item);
 
-            item = new ShoppingCartItems("PSP", 3000);
+            item = new ShoppingCartItems("PS3", 7700);
 
             mycart.AddShoppingCartItems(item);
             
@@ -31,12 +31,12 @@ namespace MyShoppingCart
 
             foreach(ShoppingCartItems ShoppingCartItems in ShoppingCartItem)
             {
-                Console.WriteLine(_ = ShoppingCartItems._Itemname + "\t\t\t\t" + ShoppingCartItems._Price);
+                Console.WriteLine(_ = ShoppingCartItems._Itemname + "\t\t\t\t" + "R" + ShoppingCartItems._Price);
             }
 
 
-            Console.WriteLine("Subtotal:" + "\t\t\t" + mycart.GetSubTotal());
-            Console.WriteLine("WithVAT:" + "\t\t\t" + mycart.GetSubtotalWithVat());
+            Console.WriteLine("Subtotal:" + "\t\t\t" + "R" + mycart.GetSubTotal());
+            Console.WriteLine("WithVAT:" + "\t\t\t" + "R" + mycart.GetSubtotalWithVat());
         }
     }
 }

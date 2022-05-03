@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYfcwOOxvjkGBen0D9xJxWZGYKwO/k469gn5pEPPmDvP7lquf4pHj2M16J9MgVRZ4mHsoJdOxRL4igsLDjmF4Q==",
+  "dgSpecHash": "DWHhgT4leLiKfBztxquvyMBZIzG4MXsl8yOXSxU/xoOjP3+NeTYg9agyxey2C7XW2gjHS8fBP9nJmWV68tkj9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dominique Clark\\Documents\\Exercises\\ShoppingCart\\ShoppingCartSln\\ShoppingCartApp\\MyShoppingCart.csproj",
+  "projectFilePath": "C:\\Exercises\\ShoppingApp\\Shoppincart\\ShoppingApp\\ShoppingCart\\ShoppingCartSln\\ShoppingCartApp\\MyShoppingCart.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

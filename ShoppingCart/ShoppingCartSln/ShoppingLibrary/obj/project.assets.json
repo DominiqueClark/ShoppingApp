@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dominique Clark\\Documents\\Exercises\\ShoppingCart\\ShoppingCartSln\\ShoppingLibrary\\ShoppingLibrary.csproj",
+      "projectUniqueName": "C:\\Exercises\\ShoppingApp\\Shoppincart\\ShoppingApp\\ShoppingCart\\ShoppingCartSln\\ShoppingLibrary\\ShoppingLibrary.csproj",
       "projectName": "ShoppingLibrary",
-      "projectPath": "C:\\Users\\Dominique Clark\\Documents\\Exercises\\ShoppingCart\\ShoppingCartSln\\ShoppingLibrary\\ShoppingLibrary.csproj",
+      "projectPath": "C:\\Exercises\\ShoppingApp\\Shoppincart\\ShoppingApp\\ShoppingCart\\ShoppingCartSln\\ShoppingLibrary\\ShoppingLibrary.csproj",
       "packagesPath": "C:\\Users\\Dominique Clark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dominique Clark\\Documents\\Exercises\\ShoppingCart\\ShoppingCartSln\\ShoppingLibrary\\obj\\",
+      "outputPath": "C:\\Exercises\\ShoppingApp\\Shoppincart\\ShoppingApp\\ShoppingCart\\ShoppingCartSln\\ShoppingLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
